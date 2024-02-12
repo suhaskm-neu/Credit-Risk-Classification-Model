@@ -12,8 +12,6 @@ This project leverages the power of PyTorch to develop a Neural Network model th
 - **PyTorch**
 - **Imbalanced-learn for implementing SMOTE**
 - **Other common Python data science libraries (NumPy, Pandas, etc.)**
-## Usage
-- **Provide instructions on how to use the model, including data preparation, training the model, and making predictions.**
 
 ## Contributing
-- **Contributions to this project are welcome. Please read the contributing guidelines before making a pull request.**
+- **Contributions to this project are welcome.**
