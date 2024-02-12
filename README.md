@@ -1,7 +1,7 @@
 # PyTorch Neural Network for Loan Repayment Prediction
 
 ## Overview
-This project leverages the power of PyTorch to develop a sophisticated Neural Network model that predicts whether an individual will repay a loan. This task is crucial in the financial sector, aiding in the decision-making process for loan approvals. The model's unique strength lies in its ability to handle imbalanced datasets, a common challenge in real-world scenarios.
+This project leverages the power of PyTorch to develop a Neural Network model that predicts whether an individual will repay a loan or default. This task is crucial in the financial sector, aiding in the decision-making process for loan approvals. The model's unique strength lies in its ability to handle imbalanced datasets, a common challenge in real-world scenarios.
 
 ## Features
 - **Data Preprocessing:** Special focus on handling imbalanced datasets. Utilizes the Synthetic Minority Over-sampling Technique (SMOTE) to ensure a balanced representation of classes, enhancing the model's ability to learn from minority classes.
